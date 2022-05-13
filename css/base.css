@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Hind Bold';
+    src: url('/fonts/HIND\ BOLD.TTF');
+}
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('/fonts/GOTHIC.TTF');
+}
+
+body.body{
+    background-color: #131516;
+    width: 100%;
+    height: 100%;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+
+
+h1.weebnovel {
+    font-family: 'Hind Bold' !important;
+    font-size: 75px;
+    font-weight: bolder;
+    color: #fff;
+    text-shadow: 0px 0px 5px #000;
+}
+img.logo {
+    width: 500px;
+    height: 500px;
+    align-self: center;
+}
+h2.subtitle {
+    font-family: 'Century Gothic' !important;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+}
+h3.subtitle {
+    font-family: 'Century Gothic' !important;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+div.title {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    height: 20%;
+    margin-top: 250px;
+    color: #fff;
+}
+
+
+
+div.contribute{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 55px;
+    width: 60%;
+    color: #fff;
+    font-family: 'Century Gothic' !important;
+}
+p.contrib {
+    font-size: 18px;
+    font-weight: bold;
+}
+button.kickstarter {
+    font-family: 'Hind Bold' !important;
+    font-size: 35px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: #fff;
+    border-width: 3px;
+    height: 100px;
+    width: 250px;
+    background-color: #13151600;
+    color: #ECEAE9;
+    box-shadow: 0 0 3px #ECEAE9;
+    transition: 1s;
+}
+button.kickstarter:not(:hover) {
+    transition: 1s;
+}
+button.kickstarter:hover {
+    background-color: #ECEAE9;
+    color: #131516;
+    transition: 1s;
+    cursor: pointer;
+}
+
+
+
+color.weeb-color {
+    color: #971212;
+    text-shadow: 0px 0px 3px #fff;
+}
+color.weeb-fr-size {
+    font-size: 30px;
+    color: #666
+}
+color.tm {
+    font-size: 10px;
+    color: #666;
+}

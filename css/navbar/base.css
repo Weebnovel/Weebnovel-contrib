@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Hind Bold';
+    src: url('/fonts/HIND\ BOLD.TTF');
+}
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('/fonts/GOTHIC.TTF');
+}
+
+div.nav-bar{
+    width: 100%;
+    height: 80px;
+    background-color: #2e2e2e;
+    border-bottom: 3px solid #5a5a5a;
+    border-radius: 0 0 10px 10px;
+    position: fixed;
+    display: flex;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+h1.nb-site-name{
+    font-family: 'Hind Bold' !important;
+    background: linear-gradient(to right, #f0494b, #af496c);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0;
+}
+div.nb-titles{
+    float: left;
+    padding: 50% 0 50% 2px;
+    align-self: center;
+    font-family: 'Century Gothic' !important;
+    text-shadow: #000;
+}
+div.nb-logo{
+    float: left;
+    padding: 18px;
+    width: 48px;
+    height: 48px;
+}
+img.nb-logo{
+    width: 100%;
+    height: 100%;
+}
+div.nb-links{
+    width: 50%;
+    height: 100%;
+    margin-left: 25px; 
+}
+button.nb-link{
+    font-family: 'Hind Bold' !important;
+    font-size: 20px;
+    color: #fff;
+    background-color: #00000000;
+    width: 150px;
+    height: 100%;
+    border-style: solid;
+    border-color: #00000000 #00000000 #fff #00000000;
+    border-width: 0px;
+}
+button.nb-link:not(:hover) {
+    transition: 0.5s;
+}
+button.nb-link:hover{
+    background-color: #4e4e4e;
+    border-width: 3px;
+    transition: 0.5s;
+    cursor: pointer;
+}
