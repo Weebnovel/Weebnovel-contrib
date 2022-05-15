@@ -68,4 +68,5 @@ button.aff-link:not(:hover) {
 }
 button.aff-link:hover {
     background: linear-gradient(to left , #f0494b, #af496c);
+    transition: 0.25s;
 }
