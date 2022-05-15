@@ -50,6 +50,19 @@ p.aff-desc {
     font-weight: bold;
     color: #fff;
 }
+span.aff-counter {
+    border-radius: 50%;
+    border-width: 0;
+    border-style: solid;
+    width:fit-content;
+    height:fit-content;
+    padding: 5px;
+    background: linear-gradient(to right, #5865F2, #3e7ddb);
+    font-family: 'Century Gothic' !important;
+    font-size: 10px;
+    font-weight: bold;
+    color: #fff;
+}
 button.aff-link {
     font-family: "Hind Bold" !important;
     border-radius: 10px;
