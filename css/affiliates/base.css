@@ -57,7 +57,7 @@ span.aff-counter {
     width:fit-content;
     height:fit-content;
     padding: 5px;
-    background: linear-gradient(to right, #5865F2, #3e7ddb);
+    background-color: #5865F2;
     font-family: 'Century Gothic' !important;
     font-size: 10px;
     font-weight: bold;
