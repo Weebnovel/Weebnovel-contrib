@@ -62,9 +62,10 @@ div.aff-counter {
 }
 p.aff-count-text {
     font-family: 'Century Gothic' !important;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     text-align: center;
+    margin: 0;
 }
 button.aff-link {
     font-family: "Hind Bold" !important;
