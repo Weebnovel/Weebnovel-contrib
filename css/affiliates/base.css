@@ -36,9 +36,6 @@ div.aff-logo-container {
     height: 100px;
     margin: 0 auto;
 }
-#mangakissa {
-    --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
-}
 h1.aff-name {
     font-family: 'Hind Bold' !important;
     font-size: 20px;
@@ -63,4 +60,8 @@ button.aff-link {
     color: white;
     cursor: pointer;
     margin: 0 auto;
+}
+
+#mangakissa {
+    --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
 }
