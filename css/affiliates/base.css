@@ -7,10 +7,6 @@
     src: url('/fonts/GOTHIC.TTF');
 }
 
-#mangakissa {
-    --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
-}
-
 div.affiliate {
     text-align: left;
     display: block;
@@ -39,6 +35,9 @@ div.aff-logo-container {
     width: 100px;
     height: 100px;
     margin: 0 auto;
+}
+#mangakissa {
+    --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
 }
 h1.aff-name {
     font-family: 'Hind Bold' !important;
