@@ -34,6 +34,7 @@ div.aff-logo-container {
     background-position: 50%;
     width: 100px;
     height: 100px;
+    margin: 0 auto;
 }
 #mangakissa {
     --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
@@ -56,4 +57,5 @@ button.aff-link {
     border-radius: 10px;
     width: 75%;
     height: 25px;
+    background-color: ;
 }
