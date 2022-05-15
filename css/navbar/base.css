@@ -48,7 +48,8 @@ img.nb-logo{
 div.nb-links{
     width: 50%;
     height: 100%;
-    margin-left: 25px; 
+    margin-left: 25px;
+    font-size: 0;
 }
 button.nb-link{
     font-family: 'Hind Bold' !important;
