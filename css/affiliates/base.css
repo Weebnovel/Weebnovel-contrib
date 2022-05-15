@@ -7,13 +7,17 @@
     src: url('/fonts/GOTHIC.TTF');
 }
 
+#mangakissa {
+    --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
+}
+
 div.affiliate {
     text-align: left;
     display: block;
     margin-top: 20px;
     margin-left: 15px;
     width: 250px;
-    height: 350px;
+    height: fit-content;
     background-color: #00000044;
     border-radius: 10px;
     border-width: 0;
@@ -33,7 +37,7 @@ div.aff-logo-container {
     background-size: cover;
     background-position: 50%;
     width: 100px;
-    height: fit-content;
+    height: 100px;
     margin: 0 auto;
 }
 h1.aff-name {
@@ -60,8 +64,4 @@ button.aff-link {
     color: white;
     cursor: pointer;
     margin: 0 auto;
-}
-
-#mangakissa {
-    --background-image: url(https://www.weebnovel.fr/branding/logo_mangakissa.gif);
 }
