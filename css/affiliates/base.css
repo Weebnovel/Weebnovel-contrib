@@ -51,18 +51,20 @@ p.aff-desc {
     color: #fff;
 }
 div.aff-counter {
-    border-radius: 50%;
+    border-radius: 5px;
     border-width: 0;
     border-style: solid;
     width:fit-content;
     height:fit-content;
     padding: 5px;
     background-color: #5865F2;
+    color: #fff;
+}
+p.aff-count-text {
     font-family: 'Century Gothic' !important;
     font-size: 10px;
     font-weight: bold;
     text-align: center;
-    color: #fff;
 }
 button.aff-link {
     font-family: "Hind Bold" !important;
