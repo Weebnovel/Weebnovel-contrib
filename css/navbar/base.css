@@ -23,7 +23,7 @@ h1.nb-site-name{
     font-family: 'Hind Bold' !important;
     background: linear-gradient(to right, #f0494b, #af496c);
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    text-decoration-color: transparent;
     font-size: 25px;
     font-weight: bolder;
     padding: 0;
