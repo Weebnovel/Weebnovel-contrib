@@ -37,6 +37,9 @@ div.aff-logo-container {
 #mangakissa {
     --background-image: url(/branding/logo_mangakissa.gif);
 }
+#dawaiki {
+    --background-image: url(/branding/logo_dawaiki.gif);
+}
 h1.aff-name {
     font-family: 'Hind Bold' !important;
     font-size: 20px;
