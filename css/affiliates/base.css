@@ -8,13 +8,13 @@
 }
 @keyframes aff-name-animation {
     0% {
-        text-shadow: 0px 0px 1px #fff;
+        text-shadow: 0px 0px 2px #fff;
     }
     50% {
         text-shadow: 0px 0px 5px #fff;
     }
     100% {
-        text-shadow: 0px 0px 1px #fff;
+        text-shadow: 0px 0px 2px #fff;
     }
 }
 
