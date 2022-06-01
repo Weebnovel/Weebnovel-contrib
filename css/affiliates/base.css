@@ -61,7 +61,7 @@ h1.aff-name {
     font-weight: bolder;
     color: #fff;
     text-shadow: 0px 0px 3px #fff;
-    animation: aff-name-animation 6s cubic-bezier(.77,0,.18,1) infinite;
+    animation: aff-name-animation 4s cubic-bezier(.77,0,.18,1) infinite;
 }
 
 p.aff-desc {
