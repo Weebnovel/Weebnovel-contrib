@@ -52,6 +52,9 @@ div.aff-logo-container {
 #dawaiki {
     --background-image: url(/branding/logo_dawaiki.gif);
 }
+#neko-paradise {
+    --background-image: url(/branding/logo_nekoparadise.gif);
+}
 h1.aff-name {
     font-family: 'Hind Bold' !important;
     font-size: 20px;
