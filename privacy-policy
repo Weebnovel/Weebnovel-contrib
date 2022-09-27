@@ -1,0 +1,38 @@
+﻿Politique de Confidentialité des Données de Weebnovel
+Nous: L'équipe de Weebnovel, les développeurs du projet
+Vous, l'utilisateur, le lecteur: Client ou utilisateur de nos services
+Les auteurs, publicateurs: Clients ou utilisateurs de nos services publiant du contenu sur le site
+Annonceurs: Tiers ou auteurs du site participant au programme de publicité du site
+
+1.0 SÉCURITÉ DES DONNÉES
+Toutes les données que vous envoyez (interactions avec le site, email, numéro de téléphone, adresse IP, mots de passe, diagnostiques systèmes, rapports de plantage, historique de navigation du site, images et textes) sont chiffrées et envoyées dans un tunnel SSL, elles sont donc en sécurité et ne peuvent pas êtres interférées.
+De plus, certaines données (diagnostiques système, rapports de plantage) sont stockées de manière éphémère, et sont donc supprimées dès qu'elles ont fini d'être traitées.
+
+1.1 COLLECTE DES DONNÉES
+Toutes les données suivantes sont collectées:
+- Interactions avec le site (lectures, votes, recherches) - Stockées à des fins d'analyse (les recherches sont stockées de manière éphémère). Ces données ne sont pas revendues.
+- Email / Courriel -  Stockées à des fins d'authentification, de sécurité et de communication (Connexion par email, envoi d'informations par mail). Ces données ne sont pas revendues, et sont chiffrées.
+- Numéro de téléphone - Stockées à des fins de sécurité (Vérification à double facteurs/A2F). Ces données ne sont pas revendues, et sont chiffrées.
+- Adresse IP - Stockées à des fins de sécurité (Vérification des connexions au comptes pour éviter les fraudes). Ces données ne sont pas revendues, et sont chiffrées.
+- Mots de passe - Stockées à des fins d'authentification et de sécurité (Sécurité des comptes). Ces données sont strictement cryptées, même les développeurs n'ont pas accès aux mots de passes non-cryptés. Ces données ne sont évidemment pas revendues.
+- Diagnostiques systèmes - Stockées à des fins d'analyse (Correction de bogues). Ces données sont stockées temporairement, l'utilisateur peut demander les suppression de ces informations à tout moment. Elles ne sont pas revendues et ne sont lues que par les développeurs.
+- Rapports de plantage - Stockées à des fins d'analyse (Correction de bogues). Ces données sont stockées temporairement, l'utilisateur peut demander la suppresion de ces informations à tout moment. Elles ne sont pas revendues et ne contiennent pas d'informations personnelles. Ils peuvent être envoyés au support en cas de problèmes majeurs.
+- Historique de navigation sur le site - Stockées à des fins d'analyse et des personnalisation (Statistiques anonymes et contenu plus adapté à l'utilisateur). Ces données ne sont pas revendues et servent à personnaliser l'expérience utilisateur et à faire des statistiques (savoir les oeuvres les plus populaires, les tags ou les mots clés les plus recherchés). L'utilisateur peut demander à ne pas récolter ces informations, et peut demander leur suppression à tout moment. Ces données sont conservées maximum 7 jours après leur émission.
+- Images - Stockées afin de faire fonctionner le site (Couvertures d'oeuvres/volumes/chapitres/listes de lectures, images de profil, pages de mangas). Ces données ne sont pas revendues à des tierces et sont protégées par Weebnovel via les droits d'auteurs définis par l'auteur de l'oeuvre. L'utilisateur peut ne pas envoyer ces données.
+- Textes - Stockées afin de faire fonctionner le site (Contenu des oeuvres, descriptions, biographies d'utilisateur). Ces données ne sont pas revendues à des tierces et sont protégées par Weebnovel via les droits d'auteurs définis par l'auteur de l'oeuvre.
+- Données définies par l'utilisateur - Données optionnelles définies par l'utilisateur à des fins cosmétiques (Tags et catégories préférées). Ces données ne sont pas revendues et sont visibles publiquement. Elles peuvent servir à personnaliser le contenu recommandé à l'utilisateur.
+
+1.2 REVENTE DES DONNÉES
+Aucune information personnelle ou publique n'est revendue à un tierce. Le contenu produit par l'utilisateur, comme un web-novel ou un manga, ne peut être que vendues à un particulier par l'auteur dans un cadre particulier de revente de copies digitales, à l'instar de l'achat de jeux vidéos sur n'importe quelle plateforme, ou de l'achat de livres en ligne. Seul l'autorisation de lecture est vendue.
+
+1.3 UTILISATION DES DONNÉES
+Les données collectées et produites par l'utilisateur ne sont utilisées qu'en interne, afin de faire fonctionner l'application correctement, ainsi que de proposer des services fiables et personnalisés à l'utilisateur.
+
+1.4 SUPPRESSION DES DONNÉES
+L'utilisateur peut demander la suppression de ses données à n'importe quel moment, elles sont supprimées automatiquement le plus vite possible. Certaines données pourront prendre plus de temps à être supprimées comme les rapports de plantages ou les diagnostiques systèmes. Le délai maximal est d'environ 7 jours.
+
+1.5 PROTECTION DES DONNÉES PRODUITES PAR L'UTILISATEUR
+Les données produites par l'utilisateur, ou plus généralement par un auteur, comme des écrits ou bien des illustrations, sont protégées par des copyrights choisis par l'utilisateur. L'auteur peut faire une réclamation à un autre auteur, ou bien sur un autre site. Nous nous engageons à faire notre possible pour corriger le problème.
+
+1.6 PROTECTION DES DONNÉES PERSONNELLES FOURNIES PAR L'UTILISATEUR
+Les données fournies par l'utilisateur, vous, comme votre date de naissance, votre adresse email (courriel), votre nom et prénom, votre mot de passe, votre adresse physique et vos coordonnées banquaires sont strictement chiffrées, de manière à respecter les lois sur la sécurité des données personnelles en France imposées par la RGPD. Vous pouvez demander à supprimer les informations non-essentielles à tout moment, comme votre adresse physique, vos noms et votre numéro de téléphone. La suppression des données sera immédiate. Cependant, la suppression du numéro de téléphone désactivera l'A2F (Authentification à deux facteurs) et diminuera nettement la protection du compte.
