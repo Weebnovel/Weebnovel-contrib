@@ -1,5 +1,9 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.weebnovel",
-                 "sha256_cert_fingerprints": ["94:0c:e0:ba:a6:97:03:06:22:22:27:12:6a:56:a3:c4:30:b1:78:c5:da:eb:e4:46:af:e0:0c:b5:08:ab:c2:63"] }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.weebnovel",
+    "sha256_cert_fingerprints":
+    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+  }
+}]
